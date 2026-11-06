@@ -1,1 +1,2 @@
-# DigiPet
+# VIrtual-Pet-Device
+ 
